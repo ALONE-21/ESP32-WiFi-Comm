@@ -64,7 +64,7 @@ On one ESP32:
 
 On the other ESP32:
 ```
-📥 Received from 78:42:1C:6C:BB:1C: Hello, ESP32 B!
+📥 Received from AA:AA:AA:AA:BB:1C: Hello, ESP32 B!
 ```
 
 ## ✅ Dependencies

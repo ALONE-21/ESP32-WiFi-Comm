@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <esp_now.h>
 
-// ⚠️ Replace this with the OTHER ESP32's MAC address
-uint8_t peerAddress[] = {0x78, 0x42, 0x1C, 0x6C, 0xBB, 0x1C};
+// ⚠️ Replace this with the OTHER ESP32's MAC address 0xXX is a hexadecimal format replace only XX
+uint8_t peerAddress[] = {0xAA, 0xAA, 0xAA 0xAA, 0xBB, 0x1C};
 
 // Structure to send/receive messages
 typedef struct struct_message {
